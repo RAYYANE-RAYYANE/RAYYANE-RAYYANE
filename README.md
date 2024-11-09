@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Rayyane THAMI OUAZZANI</h1>
 <h3 align="center">A passionate frontend developer from Morocco</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rayyane-rayyane&label=Profile%20views&color=0e75b6&style=flat" alt="rayyane-rayyane" /> </p>
+<p align="left"> <img src="https://github.com/RAYYANE-RAYYANE/RAYYANE-RAYYANE/blob/main/images/1731172081027.jpg" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rayyane-rayyane" alt="rayyane-rayyane" /></a> </p>
 
